@@ -32,6 +32,7 @@
             this.btnReadMemory = new System.Windows.Forms.Button();
             this.lblProcessId = new System.Windows.Forms.Label();
             this.btnMaxHealth = new System.Windows.Forms.Button();
+            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnMaxAmmo
@@ -72,11 +73,22 @@
             this.btnMaxHealth.UseVisualStyleBackColor = true;
             this.btnMaxHealth.Click += new System.EventHandler(this.btnMaxHealth_Click);
             // 
+            // btnTest
+            // 
+            this.btnTest.Location = new System.Drawing.Point(12, 70);
+            this.btnTest.Name = "btnTest";
+            this.btnTest.Size = new System.Drawing.Size(242, 44);
+            this.btnTest.TabIndex = 4;
+            this.btnTest.Text = "Test";
+            this.btnTest.UseVisualStyleBackColor = true;
+            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(266, 126);
+            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.btnMaxHealth);
             this.Controls.Add(this.lblProcessId);
             this.Controls.Add(this.btnReadMemory);
@@ -97,6 +109,7 @@
         private System.Windows.Forms.Button btnReadMemory;
         private System.Windows.Forms.Label lblProcessId;
         private System.Windows.Forms.Button btnMaxHealth;
+        private System.Windows.Forms.Button btnTest;
     }
 }
 

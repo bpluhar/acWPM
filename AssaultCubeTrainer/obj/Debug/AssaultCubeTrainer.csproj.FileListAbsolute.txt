@@ -1,0 +1,10 @@
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\bin\Debug\AssaultCubeTrainer.exe.config
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\bin\Debug\AssaultCubeTrainer.exe
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\bin\Debug\AssaultCubeTrainer.pdb
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.csprojAssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.Properties.Resources.resources
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.csproj.GenerateResource.cache
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.exe
+C:\Users\Brian\Documents\GitHub\acWPM\AssaultCubeTrainer\obj\Debug\AssaultCubeTrainer.pdb
