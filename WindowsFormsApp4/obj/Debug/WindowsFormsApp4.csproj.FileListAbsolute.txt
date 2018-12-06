@@ -1,0 +1,10 @@
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Main.resources
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\AssaultCubeTrainer.exe.config
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\AssaultCubeTrainer.exe
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\AssaultCubeTrainer.pdb
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\AssaultCubeTrainer.Properties.Resources.resources
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\AssaultCubeTrainer.exe
+C:\Users\Brian\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\AssaultCubeTrainer.pdb
